@@ -1,1 +1,60 @@
-site_name: My Docs
+# project Information
+site_name: Ismail's Website
+site_desciption: 'A project documentation website'
+site_author: 'Ismail Mansuri'
+site_url: 'http://www.ismailmansuri.com'
+site_dir: 'D:\Ismail\Documents\website\html'
+
+# Repository
+repo_name: 
+repo_url: https://github.com/IsmailMansuri
+edit_uri: ''
+
+# Copyright
+copyright: 'Copyright &copy; 2017 - 2020 Ismail Mansuri'
+
+# Page Tree
+nav:
+  - Home: index.md
+  
+
+# Configuration
+theme:
+  name: material
+  language: en
+  palette:
+    scheme: slate
+    primary: light blue
+    accent: green
+  icon:
+    logo: 'material/send-outline'
+  favicon: 'img/favicon.png'
+
+# Extras
+extra:
+  social:
+    - icon: 'material/email'
+      link: 'mailto:info@ismailmansuri.com'
+    - icon: 'material/phone'
+      link: 'tel:9088929134'
+    - icon: 'material/github'
+      link: 'https://github.com/IsmailMansuri'
+    - icon: 'material/linkedin'
+      link: 'www.linkedin.com/in/IsmailMansuri'
+
+# Google Analytics
+google_analytics:
+  - 'UA-129524041-1'
+  - 'auto'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - meta
+
+plugins:
+  - search
