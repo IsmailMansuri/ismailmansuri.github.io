@@ -16,11 +16,18 @@ copyright: 'Copyright &copy; 2017 - 2020 Ismail Mansuri'
 # Page Tree
 nav:
   - Home: index.md
-  
+  - Projects:
+    - CNC: Projects/cnc.md
+    - My Website: Projects/website.md
+  - Activities:
+    - 4H Robotics Club: Activities/4h.md
+    - FIRST Team 12601: Activities/12601.md
+    - Game-U: Activities/gameu.md
 
 # Configuration
 theme:
   name: material
+  custom_dir: overrides
   language: en
   palette:
     scheme: slate
@@ -29,6 +36,8 @@ theme:
   icon:
     logo: 'material/send-outline'
   favicon: 'img/favicon.png'
+  features:
+    - navigation.instant
 
 # Extras
 extra:
@@ -36,7 +45,7 @@ extra:
     - icon: 'material/email'
       link: 'mailto:info@ismailmansuri.com'
     - icon: 'material/phone'
-      link: 'tel:9088929134'
+      link: 'tel:9083490496'
     - icon: 'material/github'
       link: 'https://github.com/IsmailMansuri'
     - icon: 'material/linkedin'
