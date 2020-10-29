@@ -49,7 +49,7 @@ extra:
     - icon: 'material/github'
       link: 'https://github.com/IsmailMansuri'
     - icon: 'material/linkedin'
-      link: 'www.linkedin.com/in/IsmailMansuri'
+      link: 'https://www.linkedin.com/in/IsmailMansuri'
 
 # Google Analytics
 google_analytics:
