@@ -11,12 +11,13 @@ repo_url: https://github.com/IsmailMansuri
 edit_uri: ''
 
 # Copyright
-copyright: 'Copyright &copy; 2017 - 2020 Ismail Mansuri'
+copyright: 'Copyright &copy; 2017 - 2022 Ismail Mansuri'
 
 # Page Tree
 nav:
   - Home: index.md
   - Projects:
+    - Trailer: Projects/trailer.md
     - CNC: Projects/cnc.md
     - My Website: Projects/website.md
   - Activities:
