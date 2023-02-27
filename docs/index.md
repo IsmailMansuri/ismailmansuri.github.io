@@ -1,8 +1,10 @@
 # Welcome to My Website
 
+Welcome to my website
+
 My site is still under construction 
 
-## Commands
+## About Me
 
 * `mkdocs bertone new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
