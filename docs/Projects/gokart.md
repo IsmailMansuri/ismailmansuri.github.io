@@ -14,7 +14,7 @@ We came back for summer break and worked on making it work reliably and make it 
 
 Our go kart worked reliably. We drove it for a while by my house, we took it to my friend's house, and to a friend's horse track. We had a lot of fun driving it, we climbed some very steep slopes and the go kart had no issue. It never bogged down and climbed steep slopes with ease. With two people sitting in it, weighing approximately 350lbs combined, I was surprised how fast it could go and how well it could climb steep slopes. With our calculations, we estimated that we reached ~55 miles per hour with a 100lbs driver on a loose gravel horse track. 
 
-On the last day of driving the go kart, I was driving towards the garage and noticed that my foot was all the way on the throttle and it seemed like it lost power. We parked it and tried to restart it and the engine was not turning over properly. We did not have time to diagnose and fix the issue as we moved to other projects. We got our fun out of this project, and next we will repair the engine and then sell the go kart for the next person.
+On the last day of driving the go kart, I was driving towards the garage and noticed that my foot was all the way on the throttle and it seemed like it lost power. We parked it and tried to restart it and the engine was not turning over properly. We did not have time to diagnose and fix the issue as we moved to other projects. We got our fun out of this project, and next we will repair the engine and then sell the go kart for the next person to work on it.
 
 
 ## Video
